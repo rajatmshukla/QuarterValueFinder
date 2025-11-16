@@ -1,0 +1,5 @@
+{
+  "name": "Quarter Value Finder",
+  "description": "An AI-powered app to identify the type, year, and mint mark of a US quarter from an image and estimate its market value across major online marketplaces.",
+  "requestFramePermissions": []
+}
